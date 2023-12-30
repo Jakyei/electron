@@ -1550,5 +1550,5 @@ an ARM64 translator (like the macOS
 [Rosetta Translator Environment](https://en.wikipedia.org/wiki/Rosetta_(software))
 or Windows [WOW](https://en.wikipedia.org/wiki/Windows_on_Windows)).
 
-You can use this property to prompt users to download the arm64 version of
+You can use this property to prompt users to download the arm64 version of 
 your application when they are mistakenly running the x64 version under Rosetta or WOW.
